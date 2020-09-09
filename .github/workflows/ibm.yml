@@ -1,4 +1,4 @@
-name: IBM Cloud Auto Restart
+name: WangLi IBM Cloud Auto Restart
 
 on:
   push:
